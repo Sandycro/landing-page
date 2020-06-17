@@ -11,9 +11,15 @@ html {
 }
 
 h1 {
+  text-align: center;
   font-size: 2rem;
   color: #269F9F;
+  margin: 0;
 }
+
+/*.text-center {
+  margin-top: 100px;
+}*/
 
 hr {
   border-color: #B265C7;
@@ -22,7 +28,7 @@ hr {
 }
 
 .buffer {
-  height: 5rem;
+  height: 4rem;
 }
 
 .btn {
